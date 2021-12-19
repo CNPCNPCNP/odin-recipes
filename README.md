@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic project showing off my ability to make a website showing a few different recipes that you can make. By completing this project I will show my ability to use the git workflow and basic HTML.
